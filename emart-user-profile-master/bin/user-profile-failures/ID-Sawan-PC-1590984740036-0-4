@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<User>
+    <name>sawan</name>
+    <email>sawancse2@gmail.com</email>
+    <mobile>73670342952</mobile>
+    <password>pass14</password>
+    <status>REGISTERED</status>
+    <userType>CONSUMER</userType>
+    <expiry>6Min</expiry>
+</User>
